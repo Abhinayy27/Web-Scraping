@@ -1,4 +1,4 @@
-# NLP-Project
+# Web Scraping-Project
 
 This project involves extracting, cleaning, and analyzing text from multiple web articles to compute a variety of sentiment and readability metrics. The project was designed to process content from URLs, extract relevant text, and perform a comprehensive analysis that includes positive/negative scoring, polarity, subjectivity, readability (Gunning Fog Index), and more.
 
